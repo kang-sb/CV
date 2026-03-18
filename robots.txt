@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kang-sb.github.io/sitemap.xml
+Sitemap: https://kang-sb.github.io/CV/sitemap.xml
