@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an AI Engineer with 5+ years of industry experience, specializing in computer vision, generative AI, and content safety (NSFW). My research interests focus on Trustworthy AI and pluralistic alignment. 
+Hello! I am a senior AI engineer with 5+ years of industry experience, holding degrees from Shanghai Jiao Tong University and The Ohio State University. I specialize in computer vision, generative AI, and content safety (NSFW). My research interests focus on Trustworthy AI and pluralistic alignment. 
 
 For the 2026-2027 academic year, I will be an Erasmus exchange student at KIT. I am currently seeking a Research Assistant (HiWi) position starting from November 2026, with a strong motivation to pursue a PhD in the future.
 
