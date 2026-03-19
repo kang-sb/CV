@@ -31,4 +31,4 @@ Driven by the rapidly evolving adversarial environments in the real world, my re
 For the 2026-2027 academic year, I will be an Erasmus exchange student at KIT. I am currently seeking a Research Assistant (HiWi) position starting from November 2026, with a strong motivation to pursue a PhD in the future.
 
 <br>
-<a href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}" target="_blank" class="btn btn-primary z-depth-1">📄 Download My CV (PDF)</a>
+<a href="{{ '/assets/pdf/ShengboKang_CV.pdf' | relative_url }}" target="_blank" class="btn btn-primary z-depth-1">📄 Download My CV (PDF)</a>
