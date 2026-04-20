@@ -26,9 +26,9 @@ latest_posts:
 
 Hello! I am a senior AI engineer with 5+ years of industry experience, holding degrees from Shanghai Jiao Tong University and The Ohio State University. I specialize in computer vision, generative AI, and visual content safety (NSFW). 
 
-Driven by the rapidly evolving adversarial threats in the real world, my research interests focus on Trustworthy AI and pluralistic alignment. 
+Driven by the rapidly evolving adversarial threats in the real world, my research interests focus on Trustworthy AI and Multi-agent Safety. 
 
-For the 2026-2027 academic year, I will be an Erasmus exchange student at KIT. I am currently seeking a Research Assistant (HiWi) position starting from November 2026, with a strong motivation to pursue a PhD in the future.
+For the 2026-2027 academic year, I will be an Erasmus exchange student at KIT. I am currently seeking a Student Assistant (HiWi) position starting from November 2026, with a strong motivation to pursue a PhD in the future.
 
 <br>
 <a href="{{ '/assets/pdf/ShengboKang_CV.pdf' | relative_url }}" target="_blank" class="btn btn-primary z-depth-1">📄 Download My CV (PDF)</a>
